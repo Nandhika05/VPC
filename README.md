@@ -58,7 +58,8 @@ To study the steps involved in setting up a private cloud using **AWS** or **Mic
 
 ## OUTPUT
 
-![WhatsApp Image 2025-11-01 at 10 13 09_5fc143d9](https://github.com/user-attachments/assets/f919f27b-e02b-46fe-b8ed-051a17e87379)
+<img width="1013" height="445" alt="Screenshot 2025-11-21 192221" src="https://github.com/user-attachments/assets/b2dbb606-fc58-40b6-b5e8-b1c0e1703925" />
+
 
 ## RESULT
 A **private cloud environment** was successfully created using the **AWS/Azure** platform.  
